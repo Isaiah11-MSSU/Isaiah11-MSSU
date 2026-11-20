@@ -4,9 +4,9 @@ title: "Isaiah Padello Portfolio - Home"
 ---
 <section class="main hero">
       <div class="title">
-        <h1 class="hero-title">A bold headline that delivers.</h1>
+        <h1 class="hero-title">Passionate Football Athlete.</h1>
         <p class="hero-subtitle">
-          Go ahead and say just a little more about what you do. It is awesome.
+         I am a high-performance athlete seeking new opportunities.
         </p>
       </div>
       <div class="hero-buttons">
