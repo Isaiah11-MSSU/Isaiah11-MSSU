@@ -8,7 +8,7 @@ title: "About Me"
         <h1>About Me</h1>
     </section>
     <section class="feature">
-        <img src="https://www.mssu.edu/academics/business/communication/images/Mr-Brian-Mehrens1.jpg" />
+        <img src="https://mssulions.com/images/2026/8/5/Isaiah_Padello.jpg?width=146" />
         <div class="text">
             <h2>Introduction</h2>
             <p>A little paragraph introduction that gives a sense of what you do, who you are, where you’re from, and why you created this website. This is the most likely part of the page to be read in full.</p>
@@ -29,7 +29,6 @@ title: "About Me"
             <span class="agency">Agency</span>
             <time datetime="2025">2025</time>
         </li>
-        {% include experience_list_item.html agency="MSSU" date="2026" %}
     </ul>
         
 </section>
